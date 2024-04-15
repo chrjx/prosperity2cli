@@ -1,0 +1,5 @@
+.idea/
+build/
+dist/
+*.json
+*.log
